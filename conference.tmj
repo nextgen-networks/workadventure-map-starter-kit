@@ -388,7 +388,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"variable",
+                 "type":"https:\/\/nextgen-networks.de",
                  "visible":true,
                  "width":0,
                  "x":304.52245019328,
@@ -496,7 +496,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
